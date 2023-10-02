@@ -75,5 +75,3 @@ def setup():
 ### Final Thoughts
 Review the script thoroughly to understand the interactions between the Raspberry Pi and the connected hardware components before executing or modifying it. If you encounter any issues or have suggestions for improvement, feel free to contribute.
 ```
-
-You can copy the entire block above and paste it directly into your GitHub README file. The markdown syntax will format the text accordingly.
