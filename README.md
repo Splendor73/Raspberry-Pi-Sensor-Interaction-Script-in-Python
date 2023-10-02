@@ -72,6 +72,3 @@ def setup():
    #... setting up GPIO Pins and sensors...
 ```
 
-### Final Thoughts
-Review the script thoroughly to understand the interactions between the Raspberry Pi and the connected hardware components before executing or modifying it. If you encounter any issues or have suggestions for improvement, feel free to contribute.
-
